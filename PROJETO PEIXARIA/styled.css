@@ -1,0 +1,317 @@
+.home{
+
+background-image: url("back.png");
+
+
+
+}
+
+
+.cabecalho{
+width: 100%;
+height:100px;
+padding: ;
+margin-top:0px;
+font-size: 17px;
+border-radius: 5px;
+text-decoration: underline 1px yellow ;
+background-color: balck;
+display: flex;
+justify-content: space-around;
+align-items: baseline;
+list-style: none;
+
+
+
+
+}
+
+
+
+.lista{
+
+margin: ;
+font-size: 30px;
+display: flex;
+justify-content: row;
+list-style: none;
+
+
+}
+
+
+
+
+
+.corrente:hover{
+color: white;
+margin: 5px;
+text-decoration: none;
+transition: all 0.3s linear;
+
+
+
+
+}
+
+.corrente
+{
+
+color: yellow;
+background-color:black;
+
+} 
+
+
+.titulo{
+width:10px;
+padding: 5px;
+text-decoration: none;
+border: 5px solid black;
+color: yellow;
+font-size: 45px;
+background-color:black ;
+
+
+
+}
+
+.titulo:hover{
+
+color: white;
+transition: all 0.5s linear;
+
+}
+
+
+.imgpeixe1{
+
+width:750px;
+display: flex;
+flex-wrap: wrap;
+margin-left: 80px;
+padding: 10px;
+margin-top: 10px;
+
+}
+
+.caixapeixe1{
+
+border-radius: 5px;
+background-color:black;
+width:900px;
+height: 600px;
+margin: 10px;
+padding : px;
+
+}
+
+
+.h2cabe{
+
+color: yellow;
+text-decoration: underline yellow;
+margin-left: 150px;
+display: flex;
+align-items: center;
+padding: 30px;
+
+}
+
+
+
+.caixacabecalho{
+
+width:100%;
+border: 5px solid;
+background-color: black;
+
+}
+
+
+
+
+.caixapeixe2{
+
+
+border-radius: 15px;
+background-color:black;
+width:900px;
+height: 600px;
+margin: 10px;
+
+} 
+
+
+
+.imgpeixe2{
+
+width:850px;
+margin: ;
+margin-left: 20px;
+padding: 10px;
+margin-top: 30px;
+
+
+
+}
+
+
+
+.caixapeixe3{
+
+
+border-radius: 15px;
+background-color:black;
+width:900px;
+height: 600px;
+margin: 10px;
+
+
+
+}
+
+
+.imgpeixe3{
+
+width:850px;
+margin: ;
+margin-left: 20px;
+padding: 10px;
+margin-top: 30px;
+
+
+
+
+
+
+} 
+
+
+
+.alinhacaixas{
+
+display: flex;
+align-items: center;
+flex-direction: column;
+
+} 
+
+
+.alinhatextsobre
+{
+
+padding: 10px;
+margin: 10px;
+border-radius: 25px;
+background-color:#fffdd0;
+width:900px;
+height: 1500px;
+font-size: 20px;
+
+
+} 
+
+.alinhaimglocal{
+
+display:flex ; 
+justify-content: space-around;
+margin-top: 100px;
+
+
+} 
+
+
+.imglocal{
+
+width: 350px;
+border-radius:15px;
+
+
+} 
+
+.alinhatextreceita
+{
+
+padding: 10px;
+margin: 10px;
+border-radius: 25px;
+background-color:#fffdd0;
+width:900px;
+height: 1000px;
+font-size: 20px;
+
+
+} 
+
+
+.h1receitas{
+
+text-decoration: underline yellow;
+
+}
+
+.form{
+border: solid 5px;
+border-radius: 15px;
+width: 300px;
+height: 180px;
+text-decoration: underline rgb(22, 22, 21);
+display: flex;
+align-items: center;
+flex-direction: column;
+background-color:;
+}
+
+.caixaform{
+
+  
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+.rodape{
+height:25px;
+width: 100%;
+border: solid 10px;
+background-color: black;
+display: flex;
+justify-content: center;
+position: fixed;
+bottom: 2px;
+right: 5px;
+
+}
+
+.rodape > p{
+
+color:white;
+font-size: 15px;
+display: flex;
+align-items: center;
+padding-bottom: 2px;
+}
+
+
+.map{ 
+display: flex;
+justify-content: center;
+margin-top: 60px;
+border-radius: 15px;
+
+
+
+ }
+
+.map > iframe{ 
+
+
+border-radius: 20px;
+
+
+} 
+
+
